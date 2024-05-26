@@ -56,7 +56,7 @@ async function TheProductHasTheHighestPrice() {
             </ul>
         `;
     } else {
-        resultDiv.innerHTML = "Không tìm thấy sản phẩm nào.";
+        resultDiv.innerHTML = "hông tìm gaaaaaaa.";
     }
 }
 
