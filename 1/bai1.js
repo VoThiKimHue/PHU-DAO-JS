@@ -12,6 +12,7 @@ function tang(arr) {
 function bai1() {
 
 const btn =document.querySelector('.bai1 button');
+
 const input = document.querySelector('.bai1 input');
 let value
 let result =document.querySelector('.bai1 .result');
@@ -21,4 +22,4 @@ btn.addEventListener('click',function() {
 })
 
 }
-bai1();
+bai1(); 
